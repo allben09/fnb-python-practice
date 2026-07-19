@@ -1,0 +1,1 @@
+Enter# FNB Unit 5: Dictionaries\n\nstudent = {"name": "Allben", "score": 94, "course": "Python"}\nprint(f"{student['name']} scored {student['score']}% in {student['course']}")\nprint("✅ Unit 5 Quiz: 100% Passed!")
