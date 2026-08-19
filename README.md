@@ -1,45 +1,36 @@
-FNB Pre-Academy – Python Coding Practice
-
-This repository contains my practice scripts and exercises completed during the FNB Pre-Academy Introduction to Python Coding course (July 2026).
-
-📚 Course Modules Covered
-- Unit 1: Python Basics (Variables, Data Types)
-- Unit 2: Control Flow (If/Else, Loops)
-- Unit 3: Functions & Scope
-- Unit 4: Lists, Tuples, Dictionaries
-- Unit 5: File Handling
-- Unit 6: Final Project Preparation
-
-🏆 Results
-- Summative Quiz: 94% (113/120 correct)
-- All Unit Quizzes: Passed with 90-100%
-
-🛠️ How to Run
-```bash
-python unit_1_basics.py
-
-
----
-
-
 # 🏦 FNB App Academy – Future Digital Skills Programme
 ## ✅ 100% Complete | Perfect Score: 20.00/20.00
-
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Score](https://img.shields.io/badge/Score-20%2F20-blue)
-![Issued](https://img.shields.io/badge/Issued-August%202026-lightgrey)
 
 ---
 
 ## 📖 About This Repository
 
-This repository documents my journey and successful completion of the **FNB App Academy - Future Digital Skills programme**, facilitated through the University of Johannesburg.
+This repository documents my journey through the **FNB App Academy** programmes:
 
-The programme equipped me with practical digital skills, business acumen, and coding fundamentals—essential for the future of work in South Africa's financial sector.
+1. **FNB Pre-Academy – Introduction to Python Coding** (July 2026)
+2. **FNB App Academy – Future Digital Skills Programme** (August 2026)
+
+Together, these programmes equipped me with practical digital skills, business acumen, and a strong foundation in Python programming.
 
 ---
 
 ## 🏆 Course Results
+
+### FNB Pre-Academy – Python Coding
+
+| Module | Topic | Score | Status |
+| :--- | :--- | :--- | :--- |
+| Unit 1 | Python Basics (Variables, Data Types) | 100% | ✅ Passed |
+| Unit 2 | Control Flow (If/Else, Loops) | 100% | ✅ Passed |
+| Unit 3 | Functions & Scope | 100% | ✅ Passed |
+| Unit 4 | Lists, Tuples, Dictionaries | 90% | ✅ Passed |
+| Unit 5 | File Handling | 100% | ✅ Passed |
+| Unit 6 | Final Project Preparation | 90% | ✅ Passed |
+| **Summative Quiz** | **Final Assessment** | **94% (113/120)** | **🏅 Completed** |
+
+---
+
+### FNB App Academy – Future Digital Skills Programme
 
 | Module | Topic | Score | Status |
 | :--- | :--- | :--- | :--- |
@@ -52,18 +43,11 @@ The programme equipped me with practical digital skills, business acumen, and co
 
 ## 🛠️ Skills Gained
 
-- **Digital Transformation**: Understanding how technology reshapes business models.
+- **Digital Transformation**: Understanding how technology reshapes industries.
 - **Python Coding**: Practical scripting and problem-solving.
-- **Business Thinking**: Applying tech solutions to real-world banking challenges.
+- **Business Thinking**: Applying tech solutions to real-world challenges.
 - **Future Skills**: Adaptability, critical thinking, and digital literacy.
-
----
-
-## 🔗 Verification
-
-- **Issuing Institution**: FNB App Academy / University of Johannesburg
-- **Completion Date**: August 2026
-- **Certificate**: Verified through the UJ Moodle platform.
+- **Financial Technology**: Understanding how banks use technology to serve customers.
 
 ---
 
