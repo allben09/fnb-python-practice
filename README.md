@@ -18,6 +18,10 @@ This repository contains my practice scripts and exercises completed during the 
 ```bash
 python unit_1_basics.py
 
+
+---
+
+
 # 🏦 FNB App Academy – Future Digital Skills Programme
 ## ✅ 100% Complete | Perfect Score: 20.00/20.00
 
